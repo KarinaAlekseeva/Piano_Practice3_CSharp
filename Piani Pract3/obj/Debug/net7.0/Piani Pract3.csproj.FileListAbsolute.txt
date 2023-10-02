@@ -1,0 +1,14 @@
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\bin\Debug\net7.0\Piani Pract3.exe
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\bin\Debug\net7.0\Piani Pract3.deps.json
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\bin\Debug\net7.0\Piani Pract3.runtimeconfig.json
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\bin\Debug\net7.0\Piani Pract3.dll
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\bin\Debug\net7.0\Piani Pract3.pdb
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\obj\Debug\net7.0\Piani Pract3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\obj\Debug\net7.0\Piani Pract3.AssemblyInfoInputs.cache
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\obj\Debug\net7.0\Piani Pract3.AssemblyInfo.cs
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\obj\Debug\net7.0\Piani Pract3.csproj.CoreCompileInputs.cache
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\obj\Debug\net7.0\Piani Pract3.dll
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\obj\Debug\net7.0\refint\Piani Pract3.dll
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\obj\Debug\net7.0\Piani Pract3.pdb
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\obj\Debug\net7.0\Piani Pract3.genruntimeconfig.cache
+D:\Проекты колледж\Проекты Visual Studio\ОАИП\Piani Pract3\Piani Pract3\obj\Debug\net7.0\ref\Piani Pract3.dll
